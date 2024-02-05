@@ -1,0 +1,49 @@
+body{
+      background-image: url('https://i.pinimg.com/originals/df/ee/4e/dfee4efb05453172eaae20a8766a5446.png');
+      background-size: cover;
+      font-family: 'Times New Roman', Times, serif;
+      height: 100vh;
+      font-weight: bold;
+      text-align: center;
+
+}
+
+h1{
+      margin-top: 10px;
+      margin-bottom: 10px;
+}
+
+h2{
+      font-size: 50px;
+      margin-top: 0;
+      margin-bottom: 20px;
+}
+
+button{
+      border: none;
+      padding-top: 10px;
+      padding-bottom: 10px;
+      color: white;
+      font-weight: bold;
+      width: 200px;
+      margin-bottom: 5px;
+      border-radius: 5px;
+}
+
+.container{
+      background: white;
+      max-width: 80%;
+      margin: auto;
+      border: 3px solid black;
+      border-radius: 10px;
+}
+
+#increment-btn{
+      background: darkred;
+}
+
+
+#save-btn{
+      background: darkgreen;
+}
+
